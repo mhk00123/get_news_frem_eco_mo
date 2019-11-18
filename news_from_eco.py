@@ -49,5 +49,5 @@ else:
     f.close()
 
     ## 使用WeChat通知
-    data = {'text' : "經濟局有新聞更新啦a", 'desp' : news}
+    data = {'text' : "經濟局有新聞更新啦", 'desp' : news}
     requests.post('https://sc.ftqq.com/SCU52896T17559e439d325e78cd0f71bfa5b877945cf68de25a16b.send?', data=data)
