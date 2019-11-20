@@ -1,0 +1,839 @@
+root : C:/Users/leotam/Desktop/Sample File
++--01 全國科普微視頻大賽_澳門選拔賽
+|  +--1152-2019-PQ-PIS-IST_得獎者奬金EPQ_final.pdf
+|  +--20190430發佈會
+|  |  +--4月30日發佈會RUNDOWN.xlsx
+|  |  +--GC-001 全國科普微視頻大賽_澳門選拔賽 邀請傳媒renew.pdf
+|  |  +--MC script1.doc
+|  |  +--rundown.docx
+|  |  +--rundown.log
+|  |  +--全國科普微視頻大賽_澳門選拔賽_4月30日發佈會PPT.pptx
+|  |  +--微視頻發佈會－基金代表講稿.docx
+|  |  +--發佈會rundown.pdf
+|  +--2019全國科普微視頻大賽_澳門選拔賽方案 章程.docx
+|  +--2019全國科普微視頻大賽_澳門選拔賽方案 章程.pdf
+|  +--248-2019.pdf
+|  +--Action Plan-全國科普微視頻大賽.xlsx
+|  +--FDCT往來信函
+|  |  +--2019-02-04 新回覆函解釋.docx
+|  |  +--來函.pdf
+|  |  +--回函_3996_2018_L_PIS-IST.docx
+|  |  +--回函_3996_2018_L_PIS-IST.pdf
+|  |  +--科技基金款項批給信函.pdf
+|  |  +--第二次回函_328-2019-L-PIS-IST.docx
+|  |  +--第二次回函_328-2019-L-PIS-IST.JPG
+|  |  +--第二次回函_328-2019-L-PIS-IST.pdf
+|  +--GC-001_新聞稿.pdf
+|  +--GC-002_獎狀.pdf
+|  +--OSMO MOBILE 2 Invoice.JPG
+|  +--poster_final-small-1024.jpg
+|  +--poster_final.jpg
+|  +--PR 248-2019-PR-PIS-IST 為 2019全國科普微視頻大賽_澳門選拔賽 購買獎品.xlsx
+|  +--PR-獎盃.xlsx
+|  +--Proposal 建議書
+|  |  +--2019全國科普微視頻大賽_澳門選拔賽方案 章程 for GC002.docx
+|  |  +--2019全國科普微視頻大賽_澳門選拔賽方案v9-Kennis-PC.docx
+|  |  +--2019全國科普微視頻大賽_澳門選拔賽方案v9.docx
+|  |  +--fdct logo.ai
+|  |  +--FDCT_2019全國科普微視頻大賽_澳門選拔賽方案v0.2.docx
+|  |  +--Old Versions Proposals
+|  |  |  +--2019-01-28 FDCT Budget Calculation.xlsx
+|  |  |  +--2019全國科普微視頻大賽_澳門選拔賽v3.docx
+|  |  |  +--2019全國科普微視頻大賽_澳門選拔賽方案v6.docx
+|  |  |  +--2019全國科普微視頻大賽_澳門選拔賽方案v7.docx
+|  |  |  +--2019全國科普微視頻大賽_澳門選拔賽方案v8.docx
+|  |  |  +--2019全國科普微視頻大賽_澳門選拔賽方案v9.pdf
+|  |  |  +--2019全國科普微視頻大賽_澳門選拔賽方案_FDCT.docx
+|  |  |  +--2019全國科普微視頻大賽展演活動v2.docx
+|  |  |  +--2019全國科普微視頻大賽展演活動v2.pdf
+|  |  |  +--2019全國科普微視頻大賽展演活動v3.pdf
+|  |  |  +--Budget for fdct v2.xlsx
+|  |  |  +--proposal.docx
+|  |  |  +--proposalV2.docx
+|  |  |  +--Proposal_470-2018-P-PIS-IST.pdf
+|  |  +--Proposal_470-2018-P-PIS-IST.pdf
+|  |  +--Tech_Design.pdf
+|  |  +--WhatsApp Image 2019-02-27 at 12.41.53.jpeg
+|  +--Summary-全國科普微視頻大賽.xlsx
+|  +--TV用768x1366.jpg
+|  +--初評結果
+|  |  +--公開組評分.JPG
+|  |  +--崔德明
+|  |  |  +--CPTTM評委評分表finalBY johnTSUI.xlsx
+|  |  |  +--WeChat 圖片_20190925152907.jpg
+|  |  |  +--WeChat 圖片_20190925153005.jpg
+|  |  |  +--WeChat 圖片_20190925153016.jpg
+|  |  |  +--WeChat 圖片_20190925153020.jpg
+|  |  +--最終結果.pdf
+|  |  +--林濤
+|  |  |  +--評委評分表_Terence.xlsx
+|  |  +--楊文遠
+|  |  |  +--楊文遠-評委評分表 (1).xlsx
+|  |  +--評委初評結果.xlsx
+|  |  +--阮鳳蓮
+|  |  |  +--評委評分表.xlsx
+|  +--參考資料
+|  |  +--報名表1.png
+|  |  +--報名表2.png
+|  |  +--科技部办公厅 中国科学院办公厅 关于举办2018年全国科普微视频大赛的通知-中国科普网.pdf
+|  |  +--舉辦 2017 年全國科普微視頻大賽的通知.pdf
+|  +--參賽者名單.xlsx
+|  +--媒體報道
+|  |  +--微視頻發佈會-澳廣視.mp4
+|  |  +--澳門日報生產力論壇稿2019-05-09.JPG
+|  +--宣傳信函
+|  |  +--DIR-011 迴避同意書.docx
+|  |  +--DIR-011 迴避同意書.pdf
+|  |  +--中學_通知得獎名單函.doc
+|  |  +--中學_通知得獎名單函.pdf
+|  |  +--中學信函(已簽).pdf
+|  |  +--中學信函.pdf
+|  |  +--中學清單.xls
+|  |  +--勞校.pdf
+|  |  +--各社團學校機構資料.xlsx
+|  |  +--各社團學校機構資料及總海報數量 - 複製.xlsx
+|  |  +--各社團學校機構資料及總海報數量.xlsx
+|  |  +--培正.pdf
+|  |  +--大學信函(已簽).pdf
+|  |  +--大學信函.docx
+|  |  +--大學信函.pdf
+|  |  +--政府部門與學會信函.pdf
+|  |  +--教業.pdf
+|  |  +--教育中心.pdf
+|  |  +--教育中心信函(已簽).pdf
+|  |  +--社團.pdf
+|  |  +--社團信函(已簽).pdf
+|  |  +--致中學函2.doc
+|  |  +--致大學函.doc
+|  |  +--致學會 - 張貼海報.doc
+|  |  +--致政府部門 - 張貼海報.doc
+|  |  +--致政府部門 - 張貼海報.pdf
+|  |  +--致教育中心 - 張貼海報.doc
+|  |  +--致文化局 - 張貼海報2.doc
+|  |  +--致社團 - 張貼海報.doc
+|  |  +--迴避同意書_唐華軍.pdf
+|  |  +--迴避同意書_崔德明.JPG
+|  |  +--迴避同意書_林濤.pdf
+|  |  +--迴避同意書_楊文遠.pdf
+|  |  +--迴避同意書_阮鳳蓮.jpg
+|  |  +--迴避同意書_麥誠軒.pdf
+|  |  +--通知出席頒獎禮_勞校.docx
+|  |  +--通知出席頒獎禮_坊眾.docx
+|  |  +--通知出席頒獎禮_培正.docx
+|  |  +--通知出席頒獎禮_蔡高.docx
+|  |  +--邀請評委函(已簽).pdf
+|  |  +--邀請評委函-澳門教育發展研究學會.doc
+|  |  +--邀請評委函-澳門科學技術協進會.doc
+|  |  +--邀請評委函-澳門科學技術發展基金.doc
+|  |  +--邀請評委函-生產力中心產業多元化委員會委員崔德明先生.doc
+|  +--得獎名單.docx
+|  +--微視頻發佈會－基金代表講稿.docx
+|  +--收據
+|  |  +--獎盃.pdf
+|  +--新聞稿_結果公佈.docx
+|  +--新聞稿_結果公佈V2.docx
+|  +--海報相關
+|  |  +--GC-002 全國科普微視頻大賽_澳門選拔賽 設計海報2.pdf
+|  |  +--Invoice for PR 60-2019-PR-PIS-IST-海報設計.pdf
+|  |  +--PO 143-2019_海報印刷.pdf
+|  |  +--PR 60-2019-PR-PIS-IST-海報設計.xlsx
+|  |  +--TV用768x1366.jpg
+|  |  +--各社團學校機構資料及總海報數量.xlsx
+|  |  +--設計文件
+|  |  |  +--banner.jpg
+|  |  |  +--E-banner.jpg
+|  |  |  +--fdct logo.ai
+|  |  |  +--IST_poster2.jpg
+|  |  |  +--print_ist_poster2.pdf
+|  |  |  +--V2final_FB.jpg
+|  |  |  +--V2final_print_0320.pdf
+|  |  |  +--V2final_print_0320renew.pdf
+|  |  |  +--全國科普微視頻大賽展演_澳門選拔賽.ai
+|  |  |  +--全國科普微視頻大賽展演_澳門選拔賽1200x100.ai
+|  |  |  +--全國科普微視頻大賽展演_澳門選拔賽1200x100_工作區域 1.jpg
+|  |  |  +--全國科普微視頻大賽展演_澳門選拔賽1200x250.ai
+|  |  |  +--全國科普微視頻大賽展演_澳門選拔賽1200x250_工作區域 1.jpg
+|  |  |  +--全國科普微視頻大賽展演_澳門選拔賽_工作區域 1.jpg
+|  |  |  +--海報.ai
+|  |  |  +--澳門特區政府區徽.ai
+|  |  |  +--澳門特區政府區徽.jpg
+|  +--生產力論壇稿.docx
+|  +--評委評分表.xlsx
+|  +--評審.xlsx
+|  +--頒獎禮
+|  |  +--poster_final-thomas改 copy.psd
+|  |  +--poster_final-thomas改.psd
+|  |  +--中學生.png
+|  |  +--問答比賽.png
+|  |  +--大專生.png
+|  |  +--微視頻.png
+|  |  +--第六屆全澳中學生資訊科技知識問答比賽 設計v4-海报 copy.psd
+|  |  +--第六屆全澳中學生資訊科技知識問答比賽 設計v4-海报 logo.psd
+|  |  +--第六屆全澳中學生資訊科技知識問答比賽 設計v4-海报.psd
++--06 區塊鏈應用與發展研討會
+|  +--.~lock.CRS-Admin’s iMac.odt#
+|  +--approved CRS.pdf
+|  +--CRS.odt
+|  +--GC-001.pdf
+|  +--HSBC回覆.pdf
+|  +--letter
+|  |  +--channel letter_463-2017-L-PIS-IST.doc
+|  |  +--fax list.txt
+|  |  +--letter.doc
+|  |  +--程序表.pdf
+|  |  +--邀請函.pdf
+|  +--Macau-WeBank Visit Agenda 20180621 (1).pdf
+|  +--MC script.doc
+|  +--PR.ods
+|  +--PROJ-CODE-Action Plan.xlsx
+|  +--Proposal - General.dotx
+|  +--Proposal - Project.dotx
+|  +--Proposal_229-2018-P-PIS-IST.pdf
+|  +--Report 122-2018-R-PIS-IST.docx
+|  +--Report 122-2018-R-PIS-IST.pdf
+|  +--Report.dotx
+|  +--TA.docx
+|  +--TA_A.docx
+|  +--Terence致詞稿.doc
+|  +--區塊鏈研討會向講者提問.pdf
+|  +--報名(大豐).xlsx
+|  +--大豐銀行回覆.pdf
+|  +--大豐銀行回覆2.pdf
+|  +--宣傳文件
+|  |  +--blockchain.ai
+|  |  +--BlockChain_seminar.png
+|  |  +--cover 300x200.ai
+|  |  +--fdct logo.ai
+|  |  +--區塊鏈應用與發展研討會.jpg
+|  |  +--封面 300 x 200px-01.png
+|  |  +--頁尾1200 x 100px-01.png
+|  |  +--頁尾1200 x 100px.ai
+|  |  +--頁面 640 x 900 px-01.png
+|  |  +--頁面640x900.ai
+|  +--建議書.docx
+|  +--微眾銀行講者介紹.pdf
+|  +--指示牌 (七樓玻璃).doc
+|  +--指示牌 (電梯).doc
+|  +--新聞資料 區塊鏈應用與發展研討會V2.docx
+|  +--活動後新聞稿.docx
+|  +--研討會程序.doc
+|  +--研討會程序.pdf
+|  +--科學技術發基金
+|  |  +--news“區塊鏈應用與智慧城市探索”講座成功開辦v1.0.docx
+|  |  +--webwxgetmsgimg (1).jpg
+|  |  +--webwxgetmsgimg.jpg
+|  +--紀念品
+|  |  +--紀念品頁.jpg
+|  |  +--紀念品頁.psd
+|  |  +--紀念品頁底.jpg
+|  +--網上簽到表.xls
+|  +--與會者發問問題列表.png
+|  +--論壇稿.docx
++--07_新支付‧新商機研討會
+|  +--102-2017-r-pis-ist-report.pdf
+|  +--228-2017-c-pis-ist-approved crs.pdf
+|  +--Action Plan.xlsx
+|  +--CRS 228-2017-c-pis-ist.odt
+|  +--DG致詞稿.doc
+|  +--DIR007.2 EVAL. SUM.odt
+|  +--gov fax list.docx
+|  +--Label1.doc
+|  +--Label2.doc
+|  +--Logo
+|  |  +--LOGO_1.ai
+|  |  +--LOGO_2.ai
+|  +--MC script.doc
+|  +--PDF
+|  |  +--1124-2017-L-PIS-IST.pdf
+|  +--poster.jpg
+|  +--ppt
+|  |  +--一种文化，一个工具 712PPT.pptx
+|  |  +--創新支付+互聯網推廣.pdf
+|  +--registration form.odt
+|  +--registration form1.odt
+|  +--report.odt
+|  +--rundown.docx
+|  +--tel.txt
+|  +--TR022.ods
+|  +--TV Wall backdrop.pptx
+|  +--出席名單.xlsx
+|  +--微信公眾號稿.doc
+|  +--新支付新商機研討會致辭稿.docx
+|  +--新聞稿.doc
+|  +--生產力論壇稿.docx
+|  +--邀請函
+|  |  +--1237,1236,1258-2017-pis-ist-all letter.pdf
+|  |  +--1258-2017-l-pist-ist-channel.pdf
+|  |  +--channel.doc
+|  |  +--letter-中銀.doc
+|  |  +--letter-各商會.doc
+|  |  +--letter-惠民.doc
+|  |  +--letter-政府部門.doc
+|  |  +--letter-澳覓.doc
+|  |  +--letter-澳門通.doc
+|  |  +--letter-西洋街.doc
+|  |  +--rundown_final.docx
+root : C:/Users/leotam/Desktop/Sample File
++--01 全國科普微視頻大賽_澳門選拔賽
+|  +--1152-2019-PQ-PIS-IST_得獎者奬金EPQ_final.pdf
+|  +--20190430發佈會
+|  |  +--4月30日發佈會RUNDOWN.xlsx
+|  |  +--GC-001 全國科普微視頻大賽_澳門選拔賽 邀請傳媒renew.pdf
+|  |  +--MC script1.doc
+|  |  +--rundown.docx
+|  |  +--rundown.log
+|  |  +--全國科普微視頻大賽_澳門選拔賽_4月30日發佈會PPT.pptx
+|  |  +--微視頻發佈會－基金代表講稿.docx
+|  |  +--發佈會rundown.pdf
+|  +--2019全國科普微視頻大賽_澳門選拔賽方案 章程.docx
+|  +--2019全國科普微視頻大賽_澳門選拔賽方案 章程.pdf
+|  +--248-2019.pdf
+|  +--Action Plan-全國科普微視頻大賽.xlsx
+|  +--FDCT往來信函
+|  |  +--2019-02-04 新回覆函解釋.docx
+|  |  +--來函.pdf
+|  |  +--回函_3996_2018_L_PIS-IST.docx
+|  |  +--回函_3996_2018_L_PIS-IST.pdf
+|  |  +--科技基金款項批給信函.pdf
+|  |  +--第二次回函_328-2019-L-PIS-IST.docx
+|  |  +--第二次回函_328-2019-L-PIS-IST.JPG
+|  |  +--第二次回函_328-2019-L-PIS-IST.pdf
+|  +--GC-001_新聞稿.pdf
+|  +--GC-002_獎狀.pdf
+|  +--OSMO MOBILE 2 Invoice.JPG
+|  +--poster_final-small-1024.jpg
+|  +--poster_final.jpg
+|  +--PR 248-2019-PR-PIS-IST 為 2019全國科普微視頻大賽_澳門選拔賽 購買獎品.xlsx
+|  +--PR-獎盃.xlsx
+|  +--Proposal 建議書
+|  |  +--2019全國科普微視頻大賽_澳門選拔賽方案 章程 for GC002.docx
+|  |  +--2019全國科普微視頻大賽_澳門選拔賽方案v9-Kennis-PC.docx
+|  |  +--2019全國科普微視頻大賽_澳門選拔賽方案v9.docx
+|  |  +--fdct logo.ai
+|  |  +--FDCT_2019全國科普微視頻大賽_澳門選拔賽方案v0.2.docx
+|  |  +--Old Versions Proposals
+|  |  |  +--2019-01-28 FDCT Budget Calculation.xlsx
+|  |  |  +--2019全國科普微視頻大賽_澳門選拔賽v3.docx
+|  |  |  +--2019全國科普微視頻大賽_澳門選拔賽方案v6.docx
+|  |  |  +--2019全國科普微視頻大賽_澳門選拔賽方案v7.docx
+|  |  |  +--2019全國科普微視頻大賽_澳門選拔賽方案v8.docx
+|  |  |  +--2019全國科普微視頻大賽_澳門選拔賽方案v9.pdf
+|  |  |  +--2019全國科普微視頻大賽_澳門選拔賽方案_FDCT.docx
+|  |  |  +--2019全國科普微視頻大賽展演活動v2.docx
+|  |  |  +--2019全國科普微視頻大賽展演活動v2.pdf
+|  |  |  +--2019全國科普微視頻大賽展演活動v3.pdf
+|  |  |  +--Budget for fdct v2.xlsx
+|  |  |  +--proposal.docx
+|  |  |  +--proposalV2.docx
+|  |  |  +--Proposal_470-2018-P-PIS-IST.pdf
+|  |  +--Proposal_470-2018-P-PIS-IST.pdf
+|  |  +--Tech_Design.pdf
+|  |  +--WhatsApp Image 2019-02-27 at 12.41.53.jpeg
+|  +--Summary-全國科普微視頻大賽.xlsx
+|  +--TV用768x1366.jpg
+|  +--初評結果
+|  |  +--公開組評分.JPG
+|  |  +--崔德明
+|  |  |  +--CPTTM評委評分表finalBY johnTSUI.xlsx
+|  |  |  +--WeChat 圖片_20190925152907.jpg
+|  |  |  +--WeChat 圖片_20190925153005.jpg
+|  |  |  +--WeChat 圖片_20190925153016.jpg
+|  |  |  +--WeChat 圖片_20190925153020.jpg
+|  |  +--最終結果.pdf
+|  |  +--林濤
+|  |  |  +--評委評分表_Terence.xlsx
+|  |  +--楊文遠
+|  |  |  +--楊文遠-評委評分表 (1).xlsx
+|  |  +--評委初評結果.xlsx
+|  |  +--阮鳳蓮
+|  |  |  +--評委評分表.xlsx
+|  +--參考資料
+|  |  +--報名表1.png
+|  |  +--報名表2.png
+|  |  +--科技部办公厅 中国科学院办公厅 关于举办2018年全国科普微视频大赛的通知-中国科普网.pdf
+|  |  +--舉辦 2017 年全國科普微視頻大賽的通知.pdf
+|  +--參賽者名單.xlsx
+|  +--媒體報道
+|  |  +--微視頻發佈會-澳廣視.mp4
+|  |  +--澳門日報生產力論壇稿2019-05-09.JPG
+|  +--宣傳信函
+|  |  +--DIR-011 迴避同意書.docx
+|  |  +--DIR-011 迴避同意書.pdf
+|  |  +--中學_通知得獎名單函.doc
+|  |  +--中學_通知得獎名單函.pdf
+|  |  +--中學信函(已簽).pdf
+|  |  +--中學信函.pdf
+|  |  +--中學清單.xls
+|  |  +--勞校.pdf
+|  |  +--各社團學校機構資料.xlsx
+|  |  +--各社團學校機構資料及總海報數量 - 複製.xlsx
+|  |  +--各社團學校機構資料及總海報數量.xlsx
+|  |  +--培正.pdf
+|  |  +--大學信函(已簽).pdf
+|  |  +--大學信函.docx
+|  |  +--大學信函.pdf
+|  |  +--政府部門與學會信函.pdf
+|  |  +--教業.pdf
+|  |  +--教育中心.pdf
+|  |  +--教育中心信函(已簽).pdf
+|  |  +--社團.pdf
+|  |  +--社團信函(已簽).pdf
+|  |  +--致中學函2.doc
+|  |  +--致大學函.doc
+|  |  +--致學會 - 張貼海報.doc
+|  |  +--致政府部門 - 張貼海報.doc
+|  |  +--致政府部門 - 張貼海報.pdf
+|  |  +--致教育中心 - 張貼海報.doc
+|  |  +--致文化局 - 張貼海報2.doc
+|  |  +--致社團 - 張貼海報.doc
+|  |  +--迴避同意書_唐華軍.pdf
+|  |  +--迴避同意書_崔德明.JPG
+|  |  +--迴避同意書_林濤.pdf
+|  |  +--迴避同意書_楊文遠.pdf
+|  |  +--迴避同意書_阮鳳蓮.jpg
+|  |  +--迴避同意書_麥誠軒.pdf
+|  |  +--通知出席頒獎禮_勞校.docx
+|  |  +--通知出席頒獎禮_坊眾.docx
+|  |  +--通知出席頒獎禮_培正.docx
+|  |  +--通知出席頒獎禮_蔡高.docx
+|  |  +--邀請評委函(已簽).pdf
+|  |  +--邀請評委函-澳門教育發展研究學會.doc
+|  |  +--邀請評委函-澳門科學技術協進會.doc
+|  |  +--邀請評委函-澳門科學技術發展基金.doc
+|  |  +--邀請評委函-生產力中心產業多元化委員會委員崔德明先生.doc
+|  +--得獎名單.docx
+|  +--微視頻發佈會－基金代表講稿.docx
+|  +--收據
+|  |  +--獎盃.pdf
+|  +--新聞稿_結果公佈.docx
+|  +--新聞稿_結果公佈V2.docx
+|  +--海報相關
+|  |  +--GC-002 全國科普微視頻大賽_澳門選拔賽 設計海報2.pdf
+|  |  +--Invoice for PR 60-2019-PR-PIS-IST-海報設計.pdf
+|  |  +--PO 143-2019_海報印刷.pdf
+|  |  +--PR 60-2019-PR-PIS-IST-海報設計.xlsx
+|  |  +--TV用768x1366.jpg
+|  |  +--各社團學校機構資料及總海報數量.xlsx
+|  |  +--設計文件
+|  |  |  +--banner.jpg
+|  |  |  +--E-banner.jpg
+|  |  |  +--fdct logo.ai
+|  |  |  +--IST_poster2.jpg
+|  |  |  +--print_ist_poster2.pdf
+|  |  |  +--V2final_FB.jpg
+|  |  |  +--V2final_print_0320.pdf
+|  |  |  +--V2final_print_0320renew.pdf
+|  |  |  +--全國科普微視頻大賽展演_澳門選拔賽.ai
+|  |  |  +--全國科普微視頻大賽展演_澳門選拔賽1200x100.ai
+|  |  |  +--全國科普微視頻大賽展演_澳門選拔賽1200x100_工作區域 1.jpg
+|  |  |  +--全國科普微視頻大賽展演_澳門選拔賽1200x250.ai
+|  |  |  +--全國科普微視頻大賽展演_澳門選拔賽1200x250_工作區域 1.jpg
+|  |  |  +--全國科普微視頻大賽展演_澳門選拔賽_工作區域 1.jpg
+|  |  |  +--海報.ai
+|  |  |  +--澳門特區政府區徽.ai
+|  |  |  +--澳門特區政府區徽.jpg
+|  +--生產力論壇稿.docx
+|  +--評委評分表.xlsx
+|  +--評審.xlsx
+|  +--頒獎禮
+|  |  +--poster_final-thomas改 copy.psd
+|  |  +--poster_final-thomas改.psd
+|  |  +--中學生.png
+|  |  +--問答比賽.png
+|  |  +--大專生.png
+|  |  +--微視頻.png
+|  |  +--第六屆全澳中學生資訊科技知識問答比賽 設計v4-海报 copy.psd
+|  |  +--第六屆全澳中學生資訊科技知識問答比賽 設計v4-海报 logo.psd
+|  |  +--第六屆全澳中學生資訊科技知識問答比賽 設計v4-海报.psd
++--06 區塊鏈應用與發展研討會
+|  +--.~lock.CRS-Admin’s iMac.odt#
+|  +--approved CRS.pdf
+|  +--CRS.odt
+|  +--GC-001.pdf
+|  +--HSBC回覆.pdf
+|  +--letter
+|  |  +--channel letter_463-2017-L-PIS-IST.doc
+|  |  +--fax list.txt
+|  |  +--letter.doc
+|  |  +--程序表.pdf
+|  |  +--邀請函.pdf
+|  +--Macau-WeBank Visit Agenda 20180621 (1).pdf
+|  +--MC script.doc
+|  +--PR.ods
+|  +--PROJ-CODE-Action Plan.xlsx
+|  +--Proposal - General.dotx
+|  +--Proposal - Project.dotx
+|  +--Proposal_229-2018-P-PIS-IST.pdf
+|  +--Report 122-2018-R-PIS-IST.docx
+|  +--Report 122-2018-R-PIS-IST.pdf
+|  +--Report.dotx
+|  +--TA.docx
+|  +--TA_A.docx
+|  +--Terence致詞稿.doc
+|  +--區塊鏈研討會向講者提問.pdf
+|  +--報名(大豐).xlsx
+|  +--大豐銀行回覆.pdf
+|  +--大豐銀行回覆2.pdf
+|  +--宣傳文件
+|  |  +--blockchain.ai
+|  |  +--BlockChain_seminar.png
+|  |  +--cover 300x200.ai
+|  |  +--fdct logo.ai
+|  |  +--區塊鏈應用與發展研討會.jpg
+|  |  +--封面 300 x 200px-01.png
+|  |  +--頁尾1200 x 100px-01.png
+|  |  +--頁尾1200 x 100px.ai
+|  |  +--頁面 640 x 900 px-01.png
+|  |  +--頁面640x900.ai
+|  +--建議書.docx
+|  +--微眾銀行講者介紹.pdf
+|  +--指示牌 (七樓玻璃).doc
+|  +--指示牌 (電梯).doc
+|  +--新聞資料 區塊鏈應用與發展研討會V2.docx
+|  +--活動後新聞稿.docx
+|  +--研討會程序.doc
+|  +--研討會程序.pdf
+|  +--科學技術發基金
+|  |  +--news“區塊鏈應用與智慧城市探索”講座成功開辦v1.0.docx
+|  |  +--webwxgetmsgimg (1).jpg
+|  |  +--webwxgetmsgimg.jpg
+|  +--紀念品
+|  |  +--紀念品頁.jpg
+|  |  +--紀念品頁.psd
+|  |  +--紀念品頁底.jpg
+|  +--網上簽到表.xls
+|  +--與會者發問問題列表.png
+|  +--論壇稿.docx
++--07_新支付‧新商機研討會
+|  +--102-2017-r-pis-ist-report.pdf
+|  +--228-2017-c-pis-ist-approved crs.pdf
+|  +--Action Plan.xlsx
+|  +--CRS 228-2017-c-pis-ist.odt
+|  +--DG致詞稿.doc
+|  +--DIR007.2 EVAL. SUM.odt
+|  +--gov fax list.docx
+|  +--Label1.doc
+|  +--Label2.doc
+|  +--Logo
+|  |  +--LOGO_1.ai
+|  |  +--LOGO_2.ai
+|  +--MC script.doc
+|  +--PDF
+|  |  +--1124-2017-L-PIS-IST.pdf
+|  +--poster.jpg
+|  +--ppt
+|  |  +--一种文化，一个工具 712PPT.pptx
+|  |  +--創新支付+互聯網推廣.pdf
+|  +--registration form.odt
+|  +--registration form1.odt
+|  +--report.odt
+|  +--rundown.docx
+|  +--tel.txt
+|  +--TR022.ods
+|  +--TV Wall backdrop.pptx
+|  +--出席名單.xlsx
+|  +--微信公眾號稿.doc
+|  +--新支付新商機研討會致辭稿.docx
+|  +--新聞稿.doc
+|  +--生產力論壇稿.docx
+|  +--邀請函
+|  |  +--1237,1236,1258-2017-pis-ist-all letter.pdf
+|  |  +--1258-2017-l-pist-ist-channel.pdf
+|  |  +--channel.doc
+|  |  +--letter-中銀.doc
+|  |  +--letter-各商會.doc
+|  |  +--letter-惠民.doc
+|  |  +--letter-政府部門.doc
+|  |  +--letter-澳覓.doc
+|  |  +--letter-澳門通.doc
+|  |  +--letter-西洋街.doc
+|  |  +--rundown_final.docx
+root : C:/Users/leotam/Desktop/Sample File
+root : C:/Users/leotam/Desktop/Sample File
+root : C:/Users/leotam/Desktop/Sample File
+root : C:/Users/leotam/Desktop/Sample File
+root : C:/Users/leotam/Desktop/Sample File
+root : C:/Users/leotam/Desktop/Sample File
++--01 全國科普微視頻大賽_澳門選拔賽
+|  +--1152-2019-PQ-PIS-IST_得獎者奬金EPQ_final.pdf
+|  +--20190430發佈會
+|  |  +--4月30日發佈會RUNDOWN.xlsx
+|  |  +--GC-001 全國科普微視頻大賽_澳門選拔賽 邀請傳媒renew.pdf
+|  |  +--MC script1.doc
+|  |  +--rundown.docx
+|  |  +--rundown.log
+|  |  +--全國科普微視頻大賽_澳門選拔賽_4月30日發佈會PPT.pptx
+|  |  +--微視頻發佈會－基金代表講稿.docx
+|  |  +--發佈會rundown.pdf
+|  +--2019全國科普微視頻大賽_澳門選拔賽方案 章程.docx
+|  +--2019全國科普微視頻大賽_澳門選拔賽方案 章程.pdf
+|  +--248-2019.pdf
+|  +--Action Plan-全國科普微視頻大賽.xlsx
+|  +--FDCT往來信函
+|  |  +--2019-02-04 新回覆函解釋.docx
+|  |  +--來函.pdf
+|  |  +--回函_3996_2018_L_PIS-IST.docx
+|  |  +--回函_3996_2018_L_PIS-IST.pdf
+|  |  +--科技基金款項批給信函.pdf
+|  |  +--第二次回函_328-2019-L-PIS-IST.docx
+|  |  +--第二次回函_328-2019-L-PIS-IST.JPG
+|  |  +--第二次回函_328-2019-L-PIS-IST.pdf
+|  +--GC-001_新聞稿.pdf
+|  +--GC-002_獎狀.pdf
+|  +--OSMO MOBILE 2 Invoice.JPG
+|  +--poster_final-small-1024.jpg
+|  +--poster_final.jpg
+|  +--PR 248-2019-PR-PIS-IST 為 2019全國科普微視頻大賽_澳門選拔賽 購買獎品.xlsx
+|  +--PR-獎盃.xlsx
+|  +--Proposal 建議書
+|  |  +--2019全國科普微視頻大賽_澳門選拔賽方案 章程 for GC002.docx
+|  |  +--2019全國科普微視頻大賽_澳門選拔賽方案v9-Kennis-PC.docx
+|  |  +--2019全國科普微視頻大賽_澳門選拔賽方案v9.docx
+|  |  +--fdct logo.ai
+|  |  +--FDCT_2019全國科普微視頻大賽_澳門選拔賽方案v0.2.docx
+|  |  +--Old Versions Proposals
+|  |  |  +--2019-01-28 FDCT Budget Calculation.xlsx
+|  |  |  +--2019全國科普微視頻大賽_澳門選拔賽v3.docx
+|  |  |  +--2019全國科普微視頻大賽_澳門選拔賽方案v6.docx
+|  |  |  +--2019全國科普微視頻大賽_澳門選拔賽方案v7.docx
+|  |  |  +--2019全國科普微視頻大賽_澳門選拔賽方案v8.docx
+|  |  |  +--2019全國科普微視頻大賽_澳門選拔賽方案v9.pdf
+|  |  |  +--2019全國科普微視頻大賽_澳門選拔賽方案_FDCT.docx
+|  |  |  +--2019全國科普微視頻大賽展演活動v2.docx
+|  |  |  +--2019全國科普微視頻大賽展演活動v2.pdf
+|  |  |  +--2019全國科普微視頻大賽展演活動v3.pdf
+|  |  |  +--Budget for fdct v2.xlsx
+|  |  |  +--proposal.docx
+|  |  |  +--proposalV2.docx
+|  |  |  +--Proposal_470-2018-P-PIS-IST.pdf
+|  |  +--Proposal_470-2018-P-PIS-IST.pdf
+|  |  +--Tech_Design.pdf
+|  |  +--WhatsApp Image 2019-02-27 at 12.41.53.jpeg
+|  +--Summary-全國科普微視頻大賽.xlsx
+|  +--TV用768x1366.jpg
+|  +--初評結果
+|  |  +--公開組評分.JPG
+|  |  +--崔德明
+|  |  |  +--CPTTM評委評分表finalBY johnTSUI.xlsx
+|  |  |  +--WeChat 圖片_20190925152907.jpg
+|  |  |  +--WeChat 圖片_20190925153005.jpg
+|  |  |  +--WeChat 圖片_20190925153016.jpg
+|  |  |  +--WeChat 圖片_20190925153020.jpg
+|  |  +--最終結果.pdf
+|  |  +--林濤
+|  |  |  +--評委評分表_Terence.xlsx
+|  |  +--楊文遠
+|  |  |  +--楊文遠-評委評分表 (1).xlsx
+|  |  +--評委初評結果.xlsx
+|  |  +--阮鳳蓮
+|  |  |  +--評委評分表.xlsx
+|  +--參考資料
+|  |  +--報名表1.png
+|  |  +--報名表2.png
+|  |  +--科技部办公厅 中国科学院办公厅 关于举办2018年全国科普微视频大赛的通知-中国科普网.pdf
+|  |  +--舉辦 2017 年全國科普微視頻大賽的通知.pdf
+|  +--參賽者名單.xlsx
+|  +--媒體報道
+|  |  +--微視頻發佈會-澳廣視.mp4
+|  |  +--澳門日報生產力論壇稿2019-05-09.JPG
+|  +--宣傳信函
+|  |  +--DIR-011 迴避同意書.docx
+|  |  +--DIR-011 迴避同意書.pdf
+|  |  +--中學_通知得獎名單函.doc
+|  |  +--中學_通知得獎名單函.pdf
+|  |  +--中學信函(已簽).pdf
+|  |  +--中學信函.pdf
+|  |  +--中學清單.xls
+|  |  +--勞校.pdf
+|  |  +--各社團學校機構資料.xlsx
+|  |  +--各社團學校機構資料及總海報數量 - 複製.xlsx
+|  |  +--各社團學校機構資料及總海報數量.xlsx
+|  |  +--培正.pdf
+|  |  +--大學信函(已簽).pdf
+|  |  +--大學信函.docx
+|  |  +--大學信函.pdf
+|  |  +--政府部門與學會信函.pdf
+|  |  +--教業.pdf
+|  |  +--教育中心.pdf
+|  |  +--教育中心信函(已簽).pdf
+|  |  +--社團.pdf
+|  |  +--社團信函(已簽).pdf
+|  |  +--致中學函2.doc
+|  |  +--致大學函.doc
+|  |  +--致學會 - 張貼海報.doc
+|  |  +--致政府部門 - 張貼海報.doc
+|  |  +--致政府部門 - 張貼海報.pdf
+|  |  +--致教育中心 - 張貼海報.doc
+|  |  +--致文化局 - 張貼海報2.doc
+|  |  +--致社團 - 張貼海報.doc
+|  |  +--迴避同意書_唐華軍.pdf
+|  |  +--迴避同意書_崔德明.JPG
+|  |  +--迴避同意書_林濤.pdf
+|  |  +--迴避同意書_楊文遠.pdf
+|  |  +--迴避同意書_阮鳳蓮.jpg
+|  |  +--迴避同意書_麥誠軒.pdf
+|  |  +--通知出席頒獎禮_勞校.docx
+|  |  +--通知出席頒獎禮_坊眾.docx
+|  |  +--通知出席頒獎禮_培正.docx
+|  |  +--通知出席頒獎禮_蔡高.docx
+|  |  +--邀請評委函(已簽).pdf
+|  |  +--邀請評委函-澳門教育發展研究學會.doc
+|  |  +--邀請評委函-澳門科學技術協進會.doc
+|  |  +--邀請評委函-澳門科學技術發展基金.doc
+|  |  +--邀請評委函-生產力中心產業多元化委員會委員崔德明先生.doc
+|  +--得獎名單.docx
+|  +--微視頻發佈會－基金代表講稿.docx
+|  +--收據
+|  |  +--獎盃.pdf
+|  +--新聞稿_結果公佈.docx
+|  +--新聞稿_結果公佈V2.docx
+|  +--海報相關
+|  |  +--GC-002 全國科普微視頻大賽_澳門選拔賽 設計海報2.pdf
+|  |  +--Invoice for PR 60-2019-PR-PIS-IST-海報設計.pdf
+|  |  +--PO 143-2019_海報印刷.pdf
+|  |  +--PR 60-2019-PR-PIS-IST-海報設計.xlsx
+|  |  +--TV用768x1366.jpg
+|  |  +--各社團學校機構資料及總海報數量.xlsx
+|  |  +--設計文件
+|  |  |  +--banner.jpg
+|  |  |  +--E-banner.jpg
+|  |  |  +--fdct logo.ai
+|  |  |  +--IST_poster2.jpg
+|  |  |  +--print_ist_poster2.pdf
+|  |  |  +--V2final_FB.jpg
+|  |  |  +--V2final_print_0320.pdf
+|  |  |  +--V2final_print_0320renew.pdf
+|  |  |  +--全國科普微視頻大賽展演_澳門選拔賽.ai
+|  |  |  +--全國科普微視頻大賽展演_澳門選拔賽1200x100.ai
+|  |  |  +--全國科普微視頻大賽展演_澳門選拔賽1200x100_工作區域 1.jpg
+|  |  |  +--全國科普微視頻大賽展演_澳門選拔賽1200x250.ai
+|  |  |  +--全國科普微視頻大賽展演_澳門選拔賽1200x250_工作區域 1.jpg
+|  |  |  +--全國科普微視頻大賽展演_澳門選拔賽_工作區域 1.jpg
+|  |  |  +--海報.ai
+|  |  |  +--澳門特區政府區徽.ai
+|  |  |  +--澳門特區政府區徽.jpg
+|  +--生產力論壇稿.docx
+|  +--評委評分表.xlsx
+|  +--評審.xlsx
+|  +--頒獎禮
+|  |  +--poster_final-thomas改 copy.psd
+|  |  +--poster_final-thomas改.psd
+|  |  +--中學生.png
+|  |  +--問答比賽.png
+|  |  +--大專生.png
+|  |  +--微視頻.png
+|  |  +--第六屆全澳中學生資訊科技知識問答比賽 設計v4-海报 copy.psd
+|  |  +--第六屆全澳中學生資訊科技知識問答比賽 設計v4-海报 logo.psd
+|  |  +--第六屆全澳中學生資訊科技知識問答比賽 設計v4-海报.psd
++--06 區塊鏈應用與發展研討會
+|  +--.~lock.CRS-Admin’s iMac.odt#
+|  +--approved CRS.pdf
+|  +--CRS.odt
+|  +--GC-001.pdf
+|  +--HSBC回覆.pdf
+|  +--letter
+|  |  +--channel letter_463-2017-L-PIS-IST.doc
+|  |  +--fax list.txt
+|  |  +--letter.doc
+|  |  +--程序表.pdf
+|  |  +--邀請函.pdf
+|  +--Macau-WeBank Visit Agenda 20180621 (1).pdf
+|  +--MC script.doc
+|  +--PR.ods
+|  +--PROJ-CODE-Action Plan.xlsx
+|  +--Proposal - General.dotx
+|  +--Proposal - Project.dotx
+|  +--Proposal_229-2018-P-PIS-IST.pdf
+|  +--Report 122-2018-R-PIS-IST.docx
+|  +--Report 122-2018-R-PIS-IST.pdf
+|  +--Report.dotx
+|  +--TA.docx
+|  +--TA_A.docx
+|  +--Terence致詞稿.doc
+|  +--區塊鏈研討會向講者提問.pdf
+|  +--報名(大豐).xlsx
+|  +--大豐銀行回覆.pdf
+|  +--大豐銀行回覆2.pdf
+|  +--宣傳文件
+|  |  +--blockchain.ai
+|  |  +--BlockChain_seminar.png
+|  |  +--cover 300x200.ai
+|  |  +--fdct logo.ai
+|  |  +--區塊鏈應用與發展研討會.jpg
+|  |  +--封面 300 x 200px-01.png
+|  |  +--頁尾1200 x 100px-01.png
+|  |  +--頁尾1200 x 100px.ai
+|  |  +--頁面 640 x 900 px-01.png
+|  |  +--頁面640x900.ai
+|  +--建議書.docx
+|  +--微眾銀行講者介紹.pdf
+|  +--指示牌 (七樓玻璃).doc
+|  +--指示牌 (電梯).doc
+|  +--新聞資料 區塊鏈應用與發展研討會V2.docx
+|  +--活動後新聞稿.docx
+|  +--研討會程序.doc
+|  +--研討會程序.pdf
+|  +--科學技術發基金
+|  |  +--news“區塊鏈應用與智慧城市探索”講座成功開辦v1.0.docx
+|  |  +--webwxgetmsgimg (1).jpg
+|  |  +--webwxgetmsgimg.jpg
+|  +--紀念品
+|  |  +--紀念品頁.jpg
+|  |  +--紀念品頁.psd
+|  |  +--紀念品頁底.jpg
+|  +--網上簽到表.xls
+|  +--與會者發問問題列表.png
+|  +--論壇稿.docx
++--07_新支付‧新商機研討會
+|  +--102-2017-r-pis-ist-report.pdf
+|  +--228-2017-c-pis-ist-approved crs.pdf
+|  +--Action Plan.xlsx
+|  +--CRS 228-2017-c-pis-ist.odt
+|  +--DG致詞稿.doc
+|  +--DIR007.2 EVAL. SUM.odt
+|  +--gov fax list.docx
+|  +--Label1.doc
+|  +--Label2.doc
+|  +--Logo
+|  |  +--LOGO_1.ai
+|  |  +--LOGO_2.ai
+|  +--MC script.doc
+|  +--PDF
+|  |  +--1124-2017-L-PIS-IST.pdf
+|  +--poster.jpg
+|  +--ppt
+|  |  +--一种文化，一个工具 712PPT.pptx
+|  |  +--創新支付+互聯網推廣.pdf
+|  +--registration form.odt
+|  +--registration form1.odt
+|  +--report.odt
+|  +--rundown.docx
+|  +--tel.txt
+|  +--TR022.ods
+|  +--TV Wall backdrop.pptx
+|  +--出席名單.xlsx
+|  +--微信公眾號稿.doc
+|  +--新支付新商機研討會致辭稿.docx
+|  +--新聞稿.doc
+|  +--生產力論壇稿.docx
+|  +--邀請函
+|  |  +--1237,1236,1258-2017-pis-ist-all letter.pdf
+|  |  +--1258-2017-l-pist-ist-channel.pdf
+|  |  +--channel.doc
+|  |  +--letter-中銀.doc
+|  |  +--letter-各商會.doc
+|  |  +--letter-惠民.doc
+|  |  +--letter-政府部門.doc
+|  |  +--letter-澳覓.doc
+|  |  +--letter-澳門通.doc
+|  |  +--letter-西洋街.doc
+|  |  +--rundown_final.docx
++--09_None
+|  +--Action Plan.xlsx
+root : C:/Users/leotam/Desktop/Sample File
+root : C:/Users/leotam/Desktop/Sample File
+root : C:/Users/leotam/Desktop/Sample File
+root : C:/Users/leotam/Desktop/Sample File
+root : C:/Users/leotam/Desktop/Sample File/09_None
+root : C:/Users/leotam/Desktop/Sample File/09_None
+root : C:/Users/leotam/Desktop/Sample File/09_None
