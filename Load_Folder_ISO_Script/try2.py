@@ -1,8 +1,9 @@
 import os 
 
 testdir1 = 'D:/Google_Drive/1.Work/' 
+root_path = ''
 
-def list_files(startpath): 
+def list_files(startpath, depth): 
     flag = 0
     temp3 = ''
     for root, dirs, files in os.walk(startpath):
@@ -17,7 +18,7 @@ def list_files(startpath):
 
             level = temp.count(os.sep)
             # print(root.replace(startpath, ''))
-            if(level > 2):
+            if(level > depth):
                 continue
             indent = '|' + '*' * 2 * (level+1) + '+ '
             print('{}{}/'.format(indent, os.path.basename(root)))
@@ -31,5 +32,5 @@ def list_files(startpath):
 
 if __name__ == "__main__":
     f = open("Tree_Map_File.txt", "w+", encoding="utf-8")
-    list_files(testdir1)
+    list_files(testdir1, 0)
     f.close()
