@@ -3,14 +3,15 @@ import os.path
 
 rootdir = 'C:/Users/leotam/CPTTM/IST - 文件/Projects'
 testdir = 'C:/Users/leotam/Desktop/Sample File'
+testdir1 = 'D:/Google_Drive/1.Work' 
 
 def get_path(path, dirName):
     new_path = path  + '/' + dirName
     return new_path
 
 def dfs_showdir(path, depth):
-    if depth == 0:
-        print("root:[" + path + "]")
+    # if depth == 0:
+    #     print("root:[" + path + "]")
 
     for item in os.listdir(path):
         flag = os.path.isdir(get_path(path, item))
@@ -31,5 +32,5 @@ def dfs_showdir(path, depth):
 
 if __name__ == '__main__':
     f = open("Tree_Map_File.txt", "w+", encoding="utf-8")
-    dfs_showdir(rootdir , 0)
+    dfs_showdir(testdir1 , 0)
     f.close()
